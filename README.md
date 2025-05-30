@@ -51,6 +51,20 @@ This marks my **fifth** SQL project, demonstrating progressive mastery of databa
 
 ---
 
+## Stored Procedures Overview
+
+| Procedure | Purpose |
+|----------|---------|
+| `GetSubscriptionsEndingSoon` | Alerts for subscriptions expiring in X days |
+| `GetTopWatchedMovies` | Returns top N most watched movies |
+| `GetUsersWithRenewedSubscriptions` | Lists users with >1 subscription |
+| `GetUnderperformingUsersByPlan` | Finds users watching less than plan average |
+| `GetTopMonthlyMovies` | Top movie per month (by year) |
+| `GetHeavyWatchersPerDay` | Users who watched 5+ movies in one day |
+| `GetSignupSameMonthAsSubscription` | Users whose sign-up matches sub month |
+
+---
+
 ## Technologies Utilized
 
 - **SQL Server Management Studio (SSMS)**
