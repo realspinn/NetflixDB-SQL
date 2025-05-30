@@ -85,7 +85,7 @@ This marks my **fifth** SQL project, demonstrating progressive mastery of databa
 
 For inquiries, feedback, or collaboration opportunities, please contact me via:
 
-- GitHub: [https://github.com/realspinn](https://github.com/yourusername)
+- GitHub: [https://github.com/realspinn]
 - Email: adeleyeisrael400@gmail.com
 
 ---
